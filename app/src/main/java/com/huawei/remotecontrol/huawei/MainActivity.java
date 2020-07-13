@@ -6,6 +6,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Typeface;
 import android.os.Bundle;
+import android.os.Message;
 import android.os.StrictMode;
 import android.util.Log;
 import android.view.View;
@@ -17,6 +18,9 @@ import com.huawei.agconnect.remoteconfig.AGConnectConfig;
 import com.huawei.agconnect.remoteconfig.ConfigValues;
 import com.huawei.hmf.tasks.OnFailureListener;
 import com.huawei.hmf.tasks.OnSuccessListener;
+import com.huawei.hms.analytics.HiAnalytics;
+import com.huawei.hms.analytics.HiAnalyticsInstance;
+import com.huawei.hms.analytics.HiAnalyticsTools;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -49,24 +53,26 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         config = AGConnectConfig.getInstance();
-        // Set the local default configuration to the current application configuration.
+        // 将本地默认配置设置为当前应用配置
         config.applyDefault(R.xml.default_config);
-        textView.setText(config.getString(GREETING_KEY));
-        imageView.setImageDrawable(getDrawable(R.drawable.huawei_logo_1));
-        if (android.os.Build.VERSION.SDK_INT > 9) {
-            StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
-            StrictMode.setThreadPolicy(policy);
-        }
+        textView.setText(config.getValueAsString(GREETING_KEY));
+        imageView.setImageResource(R.drawable.huawei_logo_1);
+//        imageView.setImageDrawable(getDrawable(R.drawable.huawei_logo_1));
+//        if (android.os.Build.VERSION.SDK_INT > 9) {
+//            StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+//            StrictMode.setThreadPolicy(policy);
+//        }
+
     }
 
     /**
-     * Obtain the network configuration and set it to the current application configuration.
+     * 获取网络配置并设置到当前应用配置
      */
     private void fetchAndApply() {
         config.fetch(0).addOnSuccessListener(new OnSuccessListener<ConfigValues>() {
             @Override
             public void onSuccess(ConfigValues configValues) {
-                // Apply the network configuration to the current configuration.
+                // 将网络配置应用到当前配置
                 config.apply(configValues);
                 updateUI();
             }
@@ -80,17 +86,43 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void updateUI() {
-        String text = config.getString(GREETING_KEY);
-        Boolean isBold = config.getBoolean(SET_BOLD_KEY);
+        String text = config.getValueAsString(GREETING_KEY);
+        Boolean isBold = config.getValueAsBoolean(SET_BOLD_KEY);
         textView.setText(text);
-        String imageUrl = config.getString(IMAGE_URL_KEY);
-        Log.i(TAG, "image url: " + imageUrl);
-        Bitmap bitmap = getBitmap(imageUrl);
-        imageView.setImageBitmap(bitmap);
+
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                String imageUrl = config.getValueAsString(IMAGE_URL_KEY);
+                Log.i(TAG, "image url: " + imageUrl);
+                final Bitmap bitmap = getBitmap(imageUrl);
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        imageView.setImageBitmap(bitmap);
+                    }
+                });
+            }
+        }).start();
+
         if (isBold){
             textView.setTypeface(Typeface.defaultFromStyle(Typeface.BOLD));
         }
     }
+
+//    private void updateUI() {
+//        String text = config.getString(GREETING_KEY);
+//        Boolean isBold = config.getBoolean(SET_BOLD_KEY);
+//        textView.setText(text);
+//        String imageUrl = config.getString(IMAGE_URL_KEY);
+//        Log.i(TAG, "image url: " + imageUrl);
+//        final Bitmap bitmap = getBitmap(imageUrl);
+//        imageView.setImageBitmap(bitmap);
+//
+//        if (isBold){
+//            textView.setTypeface(Typeface.defaultFromStyle(Typeface.BOLD));
+//        }
+//    }
 
     public Bitmap getBitmap(String imageURL) {
         try {
