@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">Remote Control Demo</string>
-    <string name="fetch_local_button">Get Local Config</string>
-    <string name="fetch_online_button">Get online Config</string>
+    <string name="app_name">RemoteConfig Demo</string>
 </resources>

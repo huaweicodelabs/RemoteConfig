@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Remote Control Demo'
+rootProject.name = "NewRemoteMy Application"
