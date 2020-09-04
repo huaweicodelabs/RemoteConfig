@@ -1,4 +1,4 @@
-package com.huawei.newremoxia;
+package com.huawei.newremoteconfig;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.graphics.Typeface;
