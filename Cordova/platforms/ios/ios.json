@@ -1,0 +1,39 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {
+      "config.xml": {
+        "parents": {
+          "/*": [
+            {
+              "xml": "<feature name=\"AGCConfigPlugin\"><param name=\"ios-package\" value=\"AGCConfigPlugin\" /><param name=\"onload\" value=\"true\" /></feature>",
+              "count": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "installed_plugins": {
+    "cordova-plugin-agc-config": {
+      "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+    }
+  },
+  "dependent_plugins": {},
+  "modules": [
+    {
+      "id": "cordova-plugin-agc-config.remoteconfig",
+      "file": "plugins/cordova-plugin-agc-config/www/AGCConfigPlugin.js",
+      "pluginId": "cordova-plugin-agc-config",
+      "clobbers": [
+        "AGCConfigPlugin"
+      ]
+    }
+  ],
+  "plugin_metadata": {
+    "cordova-plugin-agc-config": "1.1.0"
+  }
+}

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<remote-config>
+	<value key="Greeting">Hello World</value>
+</remote-config>

@@ -1,0 +1,33 @@
+PODS:
+  - AGConnectABTest (1.2.1.300):
+    - AGConnectCredential (~> 1.2.1)
+  - AGConnectCore (1.2.1.300):
+    - HMFoundation (~> 1.2.1)
+  - AGConnectCredential (1.2.1.300):
+    - AGConnectCore (~> 1.2.1)
+  - AGConnectRemoteConfig (1.2.1.300):
+    - AGConnectABTest (~> 1.2.1)
+    - AGConnectCredential (~> 1.2.1)
+  - HMFoundation (1.2.1.300)
+
+DEPENDENCIES:
+  - AGConnectRemoteConfig (= 1.2.1.300)
+
+SPEC REPOS:
+  trunk:
+    - AGConnectABTest
+    - AGConnectCore
+    - AGConnectCredential
+    - AGConnectRemoteConfig
+    - HMFoundation
+
+SPEC CHECKSUMS:
+  AGConnectABTest: db59afd60277366694f5ccdcb519301bbd846707
+  AGConnectCore: 63b20d3342f0e9b18554431b763b8b842653af0b
+  AGConnectCredential: cbb343271af1ab8b1e937f6f3c7ebc798e04eb92
+  AGConnectRemoteConfig: 316430b16cccf8afc0afc6150e6881dea905ef2e
+  HMFoundation: b8e0a4f582c50735df36e4f9deb87e9a438caea2
+
+PODFILE CHECKSUM: 109639e90196be96f13dce8aa304fd2acd681c16
+
+COCOAPODS: 1.9.3

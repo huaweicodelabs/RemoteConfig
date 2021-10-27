@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\old_drive_F\\Codelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\RemoteConfigCodelab.csproj": {}
+  },
+  "projects": {
+    "D:\\old_drive_F\\Codelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\RemoteConfigCodelab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\old_drive_F\\Codelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\RemoteConfigCodelab.csproj",
+        "projectName": "RemoteConfigCodelab",
+        "projectPath": "D:\\old_drive_F\\Codelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\RemoteConfigCodelab.csproj",
+        "packagesPath": "C:\\Users\\c00415084\\.nuget\\packages\\",
+        "outputPath": "D:\\old_drive_F\\Codelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\RemoteConfigCodelab\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c00415084\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "D:\\old_drive_F\\AGC_SDK\\Third Platform\\Xamarin\\1.2.0\\package\\xamarin-cloudfunctions-package-1.5.0.300\\xamarin-auth-package-1.5.0.300\\xamarin-hms-auth": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Huawei.Agconnect.Remoteconfig": {
+              "target": "Package",
+              "version": "[1.4.2.301, )"
+            },
+            "Xamarin.Android.Wear": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Xamarin.AndroidX.Legacy.Support.Core.UI": {
+              "target": "Package",
+              "version": "[1.0.0.8, )"
+            },
+            "Xamarin.AndroidX.PercentLayout": {
+              "target": "Package",
+              "version": "[1.0.0.8, )"
+            },
+            "Xamarin.AndroidX.Wear": {
+              "target": "Package",
+              "version": "[1.1.0.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

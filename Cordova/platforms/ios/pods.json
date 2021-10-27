@@ -1,0 +1,16 @@
+{
+    "declarations": {
+        "use_frameworks!": {
+            "declaration": "use_frameworks!",
+            "count": 1
+        }
+    },
+    "sources": {},
+    "libraries": {
+        "AGConnectRemoteConfig": {
+            "name": "AGConnectRemoteConfig",
+            "spec": "1.2.1.300",
+            "count": 1
+        }
+    }
+}

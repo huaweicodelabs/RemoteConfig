@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+/*
+ * Copyright 2020. Huawei Technologies Co., Ltd. All rights reserved.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<plugin id="cordova-plugin-agc-config" version="1.1.0"
+    xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <name>remoteConfig</name>
+    <js-module name="remoteconfig" src="www/AGCConfigPlugin.js">
+        <clobbers target="AGCConfigPlugin" />
+    </js-module>
+
+    <platform name="android">
+
+        <hook src="scripts/android/after_plugin_install.js" type="after_plugin_install" />
+        <hook src="scripts/android/before_plugin_uninstall.js" type="before_plugin_uninstall" />
+
+        <config-file parent="/*" target="res/xml/config.xml">
+            <feature name="AGCConfigPlugin">
+                <param name="android-package" value="org.apache.cordova.agconnect.remoteconfig.AGCConfigPlugin" />
+                <param name="onload" value="true" />
+            </feature>
+        </config-file>
+
+        <config-file parent="/*" target="AndroidManifest.xml" />
+        <source-file src="src/android/AGCConfigPlugin.java" target-dir="src/org/apache/cordova/agconnect/remoteconfig" />
+
+        <framework src="com.huawei.agconnect:agconnect-remoteconfig:1.4.2.301" />
+
+    </platform>
+
+    <platform name="ios">
+        <config-file parent="/*" target="config.xml">
+            <feature name="AGCConfigPlugin">
+                <param name="ios-package" value="AGCConfigPlugin" />
+                <param name="onload" value="true" />
+            </feature>
+        </config-file>
+
+        <header-file src="src/ios/AGCConfigPlugin.h" />
+        <source-file src="src/ios/AGCConfigPlugin.m" />
+        <header-file src="src/ios/AppDelegate+AGCConfigPlugin.h" />
+        <source-file src="src/ios/AppDelegate+AGCConfigPlugin.m" />
+
+        <podspec>
+            <config>
+            </config>
+            <pods use-frameworks="true">
+                <pod name="AGConnectRemoteConfig" spec="1.2.1.300" />
+            </pods>
+        </podspec>
+
+    </platform>
+</plugin>

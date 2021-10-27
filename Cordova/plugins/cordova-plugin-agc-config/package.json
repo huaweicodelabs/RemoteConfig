@@ -1,0 +1,13 @@
+{
+  "name": "@cordova-plugin-agconnect/remoteconfig",
+  "version": "1.1.0",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache License 2.0",
+  "licenseFilename": "LICENSE",
+  "description": ""
+}

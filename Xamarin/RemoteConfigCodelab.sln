@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteConfigCodelab", "RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab.csproj", "{770C06FC-BCE8-4CA2-BCFE-CA355399F2AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770C06FC-BCE8-4CA2-BCFE-CA355399F2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770C06FC-BCE8-4CA2-BCFE-CA355399F2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770C06FC-BCE8-4CA2-BCFE-CA355399F2AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{770C06FC-BCE8-4CA2-BCFE-CA355399F2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770C06FC-BCE8-4CA2-BCFE-CA355399F2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770C06FC-BCE8-4CA2-BCFE-CA355399F2AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E9B1F5-45B3-4E29-83B5-107A62FA9F15}
+	EndGlobalSection
+EndGlobal

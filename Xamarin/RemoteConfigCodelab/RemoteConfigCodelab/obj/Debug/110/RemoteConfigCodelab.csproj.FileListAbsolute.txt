@@ -1,0 +1,567 @@
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\RemoteConfigCodelab.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\RemoteConfigCodelab.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab.apk
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab.aab
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab-Signed.aab
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab-Signed.apk
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab-Signed.apk.idsig
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\build.props
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\adb.props
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\RemoteConfigCodelab.csprojAssemblyReference.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res.flag
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\8\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\12\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\13\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\14\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\16\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\17\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\20\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\61\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\62\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\68\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\69\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\70\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\71\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\77\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\78\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\80\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\81\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\82\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\83\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\86\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\90\jl\files.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\R.txt
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\R.cs.flag
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\RemoteConfigCodelab.csproj.CoreCompileInputs.cache
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\RemoteConfigCodelab.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\RemoteConfigCodelab.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\com.huawei.remoteconfig.codelab.apk
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\base.zip
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\com.huawei.remoteconfig.codelab.aab
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\com.huawei.remoteconfig.codelab.apks
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\values\strings.xml
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\layout\activity_main.xml
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\mipmap-hdpi\ic_launcher.png
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\mipmap-mdpi\ic_launcher.png
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\mipmap-xhdpi\ic_launcher.png
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\mipmap-xxhdpi\ic_launcher.png
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\values\dimens.xml
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\values-round\strings.xml
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\xml\remoteconfig.xml
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\uploadflags.txt
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\resolvedassemblies.hash
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectAbtest.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectCore.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectCredential.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectHttps.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectRemoteconfig.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.DatastoreAnnotation.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.DatastoreCore.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hmf.Tasks.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Availableupdate.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Base.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Device.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Log.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.NetworkCommon.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.NetworkGrs.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Opendevice.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Stats.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Ui.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Update.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Java.Interop.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Mono.Android.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Mono.Android.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Mono.Security.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Mono.Security.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\mscorlib.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\mscorlib.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\RemoteConfigCodelab.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\RemoteConfigCodelab.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Square.OkHttp3.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Square.OkIO.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Core.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Core.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Drawing.Common.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Net.Http.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Net.Http.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Numerics.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Numerics.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Runtime.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Xml.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Xml.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.Compat.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.Percent.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Wear.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ConstraintLayout.Solver.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ConstraintLayout.Solver.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.PercentLayout.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.PercentLayout.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Wear.dll
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Wear.pdb
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\proguard\34145892-9e94-4ab8-b74d-74c88c1b66c9.txt
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\proguard\54d8f251-844e-42a2-bc5d-b2c713d92049.txt
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\proguard\5d8bc93a-0eb9-4325-b2e3-0924a6ccee72.txt
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\proguard\d84e52a7-55e5-4eb8-a4e4-db48e23a0f96.txt
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_AndroidXJetifyProguardRules.stamp
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\_AndroidXJetifyProguardRules.jetify
+D:\old_drive_F\AGC_SDK\Third Platform\Xamarin\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_AndroidXCecilfy.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\RemoteConfigCodelab.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\RemoteConfigCodelab.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab.apk
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab.aab
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab-Signed.aab
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab-Signed.apk
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\bin\Debug\com.huawei.remoteconfig.codelab-Signed.apk.idsig
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\build.props
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\adb.props
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\RemoteConfigCodelab.csprojAssemblyReference.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res.flag
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\8\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\12\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\13\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\14\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\16\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\17\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\20\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\61\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\62\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\68\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\69\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\70\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\71\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\77\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\78\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\80\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\81\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\82\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\83\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\86\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\lp\90\jl\files.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\R.txt
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\R.cs.flag
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\RemoteConfigCodelab.csproj.CoreCompileInputs.cache
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\RemoteConfigCodelab.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\RemoteConfigCodelab.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\com.huawei.remoteconfig.codelab.apk
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\base.zip
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\com.huawei.remoteconfig.codelab.aab
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\com.huawei.remoteconfig.codelab.apks
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\values\strings.xml
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\layout\activity_main.xml
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\mipmap-hdpi\ic_launcher.png
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\mipmap-mdpi\ic_launcher.png
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\mipmap-xhdpi\ic_launcher.png
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\mipmap-xxhdpi\ic_launcher.png
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\values\dimens.xml
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\values-round\strings.xml
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\res\xml\remoteconfig.xml
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\uploadflags.txt
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\resolvedassemblies.hash
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectAbtest.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectCore.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectCredential.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectHttps.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.AgconnectRemoteconfig.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.DatastoreAnnotation.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Agconnect.DatastoreCore.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hmf.Tasks.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Availableupdate.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Base.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Device.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Log.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.NetworkCommon.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.NetworkGrs.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Opendevice.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Stats.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Ui.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Huawei.Hms.Update.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Java.Interop.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Mono.Android.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Mono.Android.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Mono.Security.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Mono.Security.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\mscorlib.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\mscorlib.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\RemoteConfigCodelab.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\RemoteConfigCodelab.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Square.OkHttp3.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Square.OkIO.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Core.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Core.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Drawing.Common.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Net.Http.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Net.Http.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Numerics.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Numerics.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Runtime.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Xml.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\System.Xml.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.Compat.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.Percent.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.Android.Wear.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ConstraintLayout.Solver.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ConstraintLayout.Solver.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.PercentLayout.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.PercentLayout.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Wear.dll
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\Xamarin.AndroidX.Wear.pdb
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\proguard\05de05e2-e57c-4d54-87eb-543bc270eb54.txt
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\proguard\3bdff29b-bfd0-48bd-96bc-4eaf8bb17143.txt
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\proguard\7b778661-179d-4cb6-9baf-45915f6bc5b0.txt
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\proguard\e7138af1-48c7-4c28-96d5-9c149fa387d4.txt
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_AndroidXJetifyProguardRules.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\_AndroidXJetifyProguardRules.jetify
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_AndroidXCecilfy.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.arm64-v8a.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.armeabi-v7a.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.x86.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.x86_64.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.armeabi-v7a-shared.inc
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.shared.inc
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\AndroidManifest.xml
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\AndroidManifest.xml
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\__environment__.txt
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\MonoRuntimeProvider.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\assets\machine.config
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\mono.android.jar
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\static.flag
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\buildid.txt
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\environment.arm64-v8a.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\environment.armeabi-v7a.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\environment.x86.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\environment.x86_64.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\appcompat\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\appcompat\resources\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\constraintlayout\widget\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\coordinatorlayout\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\core\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\drawerlayout\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\fragment\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\lifecycle\runtime\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\lifecycle\viewmodel\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\percentlayout\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\recyclerview\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\savedstate\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\swiperefreshlayout\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\androidx\wear\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\android\support\wearable\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\com\huawei\android\hms\openid\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\com\huawei\hms\base\availableupdate\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\com\huawei\hms\base\ui\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\com\huawei\hms\framework\common\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\com\huawei\hms\framework\network\grs\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\com\huawei\updatesdk\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\crc64372943060836af01\AwaitableTaskCompleteListener_1.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\crc643a3a094dcd06c0fa\HuaweiTaskExtensions_HuaweiTaskCompleteListener.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\crc643c4ccd3e211c4c05\MainActivity.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\crc643c4ccd3e211c4c05\MainActivity_TaskListener.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\crc6441ddbd9d7e7e28ef\HmsLazyInputStream.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\crc6441ddbd9d7e7e28ef\XamarinCustomProvider.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\crc6462ad1b025a44a38a\HuaweiTaskExtensions_MyCompleteListener.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\crc64e9db98a0d7058662\CallExtensions_ActionCallback.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\constraintlayout\motion\widget\MotionLayout_TransitionListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\wear\widget\CircularProgressLayout_OnTimerFinishedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\wear\widget\ConfirmationOverlay_OnAnimationFinishedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\androidx\wear\widget\drawer\WearableNavigationDrawerView_OnItemSelectedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\app\ApplicationRegistration.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\internal\view\SwipeDismissLayout_OnDismissedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\internal\view\SwipeDismissLayout_OnPreSwipeListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\internal\view\SwipeDismissLayout_OnSwipeProgressChangedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\preference\AcceptDenyDialogPreference_OnDialogClosedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\preference\WearableDialogPreference_OnDialogClosedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\AcceptDenyDialogFragment_OnCancelListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\AcceptDenyDialogFragment_OnClickListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\AcceptDenyDialogFragment_OnDismissListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\ActionChooserView_ActionChooserListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\ConfirmationOverlay_FinishedAnimationListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\DelayedConfirmationView_DelayedConfirmationListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\drawer\FlingWatcher_FlingListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\drawer\WearableActionDrawer_OnMenuItemClickListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\GridPageOptions_BackgroundListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\GridViewPager_OnAdapterChangeListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\GridViewPager_OnPageChangeListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\ObservableScrollView_OnScrollListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\WatchViewStub_OnLayoutInflatedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\WearableListView_ClickListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\WearableListView_OnCenterProximityListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\WearableListView_OnCentralPositionChangedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\WearableListView_OnOverScrollListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\view\WearableListView_OnScrollListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\android\support\wearable\watchface\decompositionface\DecompositionConfigView_OnComplicationTapListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\com\huawei\agconnect\core\service\auth\OnTokenListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\com\huawei\hmf\tasks\OnCanceledListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\com\huawei\hmf\tasks\OnCompleteListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\com\huawei\hmf\tasks\OnFailureListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\com\huawei\hmf\tasks\OnSuccessListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\com\huawei\hms\api\HuaweiApiClient_OnConnectionFailedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\com\huawei\hms\common\internal\BaseHmsClient_OnConnectionFailedListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\com\huawei\hms\security\SecComponentInstallWizard_SecComponentInstallWizardListenerImplementor.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\mono\MonoPackageManager_Resources.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\okhttp3\OkHttpClient$Builder_AuthenticatorImpl.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\okhttp3\OkHttpClient$Builder_DnsImpl.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\okhttp3\OkHttpClient$Builder_HostnameVerifierImpl.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\okhttp3\OkHttpClient$Builder_InterceptorImpl.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_AndroidXJetifyManifest.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\androidx\_AndroidXJetifyManifest.jetify
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\packaged_resources
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\src\com\huawei\remoteconfig\codelab\R.java
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\compressed_assemblies.arm64-v8a.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\compressed_assemblies.x86.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\compressed_assemblies.x86_64.s
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.arm64-v8a.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.armeabi-v7a.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.x86.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\typemaps.x86_64.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\environment.arm64-v8a.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\environment.armeabi-v7a.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\environment.x86.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\environment.x86_64.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\compressed_assemblies.x86.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\compressed_assemblies.x86_64.o
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\app_shared_libraries\x86\libxamarin-app.so
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\app_shared_libraries\x86_64\libxamarin-app.so
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\android\bin\classes.dex
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_CompileToDalvik.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_ConvertCustomView.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_CopyIntermediateAssemblies.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
+D:\old_drive_F\Codelab\RemoteConfigCodelab\RemoteConfigCodelab\RemoteConfigCodelab\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp

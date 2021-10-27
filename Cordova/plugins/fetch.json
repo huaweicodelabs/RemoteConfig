@@ -1,0 +1,10 @@
+{
+  "cordova-plugin-agc-config": {
+    "source": {
+      "type": "registry",
+      "id": "@cordova-plugin-agconnect/remoteconfig@^1.1.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
