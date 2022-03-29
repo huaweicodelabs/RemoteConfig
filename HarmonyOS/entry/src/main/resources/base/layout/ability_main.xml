@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:alignment="center"
+    ohos:orientation="vertical">
+
+    <Text
+        ohos:id="$+id:greeting"
+        ohos:text="Greeting CodeLaber"
+        ohos:layout_alignment="horizontal_center"
+        ohos:height="match_content"
+        ohos:width="match_content"
+        ohos:top_margin="100"
+        ohos:left_margin="60"
+        ohos:right_margin="60"
+        ohos:multiple_lines="true"
+        ohos:text_color="#ff888888"
+        ohos:text_size="100"
+        />
+
+    <Button
+        ohos:id="$+id:fetch_button"
+        ohos:text="Get Online config"
+        ohos:background_element="$graphic:background_ability_main"
+        ohos:height="match_content"
+        ohos:width="match_content"
+        ohos:top_margin="20"
+        ohos:left_margin="60"
+        ohos:right_margin="60"
+        ohos:multiple_lines="true"
+        ohos:text_size="100"
+        />
+
+
+</DirectionalLayout>
